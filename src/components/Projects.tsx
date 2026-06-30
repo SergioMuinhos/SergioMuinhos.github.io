@@ -79,7 +79,7 @@ export default function Projects() {
                 {project.tech.map((t, tIdx) => (
                   <span
                     key={tIdx}
-                    className="px-2 py-0.5 text-xs font-mono rounded bg-neutral-100 dark:bg-neutral-800 text-neutral-650 dark:text-neutral-300 border border-neutral-200/50 dark:border-neutral-750"
+                    className="px-2 py-0.5 text-xs font-mono rounded bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-200 border border-neutral-200/50 dark:border-neutral-700"
                   >
                     {t}
                   </span>
