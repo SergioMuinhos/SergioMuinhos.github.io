@@ -273,7 +273,7 @@ export default function PortfolioHero({ isDark: propIsDark, setIsDark: propSetIs
         <div className="w-full px-6 mb-16">
           <div className="flex flex-col items-center justify-center gap-2">
             <BlurText
-              text="Diseñando experiencias humanas en código."
+              text="Ingeniero de Software enfocado en arquitecturas limpias y sistemas de alto rendimiento."
               delay={100}
               animateBy="words"
               direction="top"
