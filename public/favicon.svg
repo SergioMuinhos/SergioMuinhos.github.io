@@ -2,12 +2,12 @@
   <!-- Dark circular background with neon-green border -->
   <circle cx="256" cy="256" r="230" fill="#080808" stroke="#C3E41D" stroke-width="22" />
   
-  <!-- Code bracket left (<) -->
-  <path d="M 155 175 L 75 256 L 155 337" fill="none" stroke="#F3F4F6" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Code bracket left (<) - shifted left to accommodate SM -->
+  <path d="M 125 175 L 45 256 L 125 337" fill="none" stroke="#F3F4F6" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" />
   
-  <!-- Code bracket right (>) -->
-  <path d="M 357 175 L 437 256 L 357 337" fill="none" stroke="#F3F4F6" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Code bracket right (>) - shifted right to accommodate SM -->
+  <path d="M 387 175 L 467 256 L 387 337" fill="none" stroke="#F3F4F6" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" />
   
-  <!-- Bold monospace letter S representing Sergio -->
-  <text x="256" y="278" dominant-baseline="middle" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="200" font-weight="900" fill="#C3E41D">S</text>
+  <!-- Bold monospace letter SM representing Sergio Muiños -->
+  <text x="256" y="274" dominant-baseline="middle" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="140" font-weight="900" fill="#C3E41D">SM</text>
 </svg>

@@ -207,7 +207,7 @@ export default function PortfolioHero({ isDark: propIsDark, setIsDark: propSetIs
 
           {/* Signature */}
           <div className="text-4xl select-none" style={{ color: isDark ? "hsl(0 0% 100%)" : "hsl(0 0% 10%)", fontFamily: "'Brush Script MT', 'Lucida Handwriting', cursive" }}>
-            S
+            SM
           </div>
 
           {/* Theme Toggle */}
