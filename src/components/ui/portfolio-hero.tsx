@@ -129,6 +129,7 @@ export default function PortfolioHero({ isDark: propIsDark, setIsDark: propSetIs
     { label: "INICIO", href: "#", highlight: true },
     { label: "SOBRE MÍ", href: "#about" },
     { label: "EXPERIENCIA", href: "#experience" },
+    { label: "PROYECTOS", href: "#projects" },
     { label: "ESTUDIOS", href: "#education" },
     { label: "COMPETENCIAS", href: "#skills" },
     { label: "DRONES", href: "#drones" },
